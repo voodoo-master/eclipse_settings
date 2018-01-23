@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+org.eclipse.cdt.autotools.ui.autoconf.editor.acmacro=0,0,128
+org.eclipse.cdt.autotools.ui.autoconf.editor.ammacro=0,128,0
+org.eclipse.cdt.autotools.ui.autoconf.editor.codeseq=128,128,64
+org.eclipse.cdt.autotools.ui.autoconf.editor.comment=173,149,175
+org.eclipse.cdt.autotools.ui.autoconf.editor.keyword=41,95,148
+org.eclipse.cdt.autotools.ui.autoconf.editor.var_ref=64,128,128
+org.eclipse.cdt.autotools.ui.autoconf.editor.var_set=64,128,128
+org.eclipse.cdt.autotools.ui.autoconf.editor.var_set_bold=true
+org.eclipse.cdt.autotools.ui.automake.editor.comment=173,149,175
+org.eclipse.cdt.autotools.ui.automake.editor.function=128,0,128
+org.eclipse.cdt.autotools.ui.automake.editor.keyword=41,95,148
+org.eclipse.cdt.autotools.ui.automake.editor.macro_def=64,128,128
+org.eclipse.cdt.autotools.ui.automake.editor.macro_def_bold=true
+org.eclipse.cdt.autotools.ui.automake.editor.macro_ref=64,128,128
