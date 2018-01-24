@@ -26,7 +26,7 @@ org.eclipse.jface.textfont=1|Bitstream Vera Sans Mono|10.0|0|GTK|1|;
 org.eclipse.mylyn.wikitext.ui.presentation.monospaceFont=1|Noto Sans Mono CJK SC|11.0|0|GTK|1|;
 org.eclipse.mylyn.wikitext.ui.presentation.textFont=1|Bitstream Vera Sans Mono|10.0|0|GTK|1|;
 org.eclipse.tracecompass.tmf.ui.font.eventraw=1|Bitstream Vera Sans Mono|10.0|0|GTK|1|;
-org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding commandId\="org.eclipse.ui.edit.text.delete.line.to.beginning" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+BS"/>\n</org.eclipse.ui.commands>
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands/>
 org.eclipse.ui.r30.REMOTE_COMMANDS_VIEW_FONT=1|Noto Sans Mono CJK SC|11.0|0|GTK|1|;
 org.eclipse.ui.r30.org.eclipse.cdt.debug.ui.ModulesDetailPaneFont=1|Noto Sans Mono CJK SC|11.0|0|GTK|1|;
 org.eclipse.ui.r30.org.eclipse.cdt.internal.ui.compare.AsmMergeViewer=1|Noto Sans Mono CJK SC|11.0|0|GTK|1|;
