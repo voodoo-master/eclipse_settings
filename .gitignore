@@ -1,2 +1,4 @@
 org.eclipse.cdt.core.prj-*
 org.eclipse.cdt.ui.prj-*
+org.eclipse.egit.core.prefs
+org.eclipse.cdt.managedbuilder.core.prefs
