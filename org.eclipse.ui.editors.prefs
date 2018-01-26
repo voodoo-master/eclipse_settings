@@ -19,6 +19,7 @@ lineNumberRuler=true
 occurrenceIndicationColor=255,207,187
 overviewRuler_migration=migrated_3.1
 printMarginColor=192,228,192
+quickdiff.quickDiff=false
 searchResultIndicationColor=255,223,153
 spacesForTabs=true
 spellingEnabled=false
