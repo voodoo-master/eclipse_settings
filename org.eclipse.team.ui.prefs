@@ -1,5 +1,9 @@
 eclipse.preferences.version=1
 org.eclipse.team.ui.first_time=false
 org.eclipse.team.ui.sychronizing_default_participant=org.eclipse.egit.ui.modelCompareParticipant
+<<<<<<< HEAD
 org.eclipse.team.ui.sychronizing_default_participant_sec_id=1518308790410
+=======
+org.eclipse.team.ui.sychronizing_default_participant_sec_id=1517383154642
+>>>>>>> d4d0a2356c0ecb4dacb630c48f5c9b5aeb67c43a
 org.eclipse.team.ui.sychronizing_default_perspective_to_show=always
