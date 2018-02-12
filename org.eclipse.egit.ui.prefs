@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>clear serial read buffer if no frame found</message>\n<message>optimize serial read operation, add read too long protection</message>\n<message>optimize play sound command</message>\n<message>add new() malloc exception process, change some buffers from using heap&\#x0A;to stack</message>\n<message>incread read dealy after writing, skip reading while first read failure</message>\n<message>change joy_control parameter name in launch file</message>\n<message>change the message content while joystick acquire and release rights</message>\n<message>optimize for control status changing</message>\n<message>change joy_cmd command name</message>\n<message>add cloud_terrace and camera control, optimized variable name</message>\n</messages>
+eclipse.preferences.version=1
+org.eclipse.egit.ui.githistorypage.showallfilter=SHOWALLRESOURCE
+resourcehistory_compare_mode=true
+resourcehistory_graph_split=762,237
+resourcehistory_rev_split=700,300
+resourcehistory_show_all_branches=true
+=======
 //BranchProjectTracker__/home/ros/projects/robot_control/.git_7d910b0949a246475bbf340494d979a201e537b2=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects branch\="7d910b0949a246475bbf340494d979a201e537b2">\n<project>/</project>\n</projects>
 //BranchProjectTracker__/home/ros/projects/robot_control/.git_9ef79ba044628a4fde0a3d18a6cd1fc71c4b1da0=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects branch\="9ef79ba044628a4fde0a3d18a6cd1fc71c4b1da0">\n<project>/</project>\n</projects>
 //BranchProjectTracker__/home/ros/projects/robot_control/.git_f50cdea9d8f9c216e4e6deaad34bcf36cde5a64c=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects branch\="f50cdea9d8f9c216e4e6deaad34bcf36cde5a64c">\n<project>/</project>\n</projects>
@@ -9,3 +18,4 @@ resourcehistory_graph_split=500,500
 resourcehistory_rev_split=700,300
 resourcehistory_show_all_branches=true
 show_detached_head_warning=false
+>>>>>>> d4d0a2356c0ecb4dacb630c48f5c9b5aeb67c43a
