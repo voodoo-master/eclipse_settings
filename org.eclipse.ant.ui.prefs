@@ -5,3 +5,5 @@ org.eclipse.ant.ui.dtdColor=188,90,101
 org.eclipse.ant.ui.processingInstructionsColor=88,88,88
 org.eclipse.ant.ui.tagsColor=188,90,101
 org.eclipse.ant.ui.textColor=88,88,88
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

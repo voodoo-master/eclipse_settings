@@ -23,4 +23,5 @@ quickdiff.quickDiff=false
 searchResultIndicationColor=255,223,153
 spacesForTabs=true
 spellingEnabled=false
+spellingEngine=org.eclipse.jdt.internal.ui.text.spelling.DefaultSpellingEngine
 writeOccurrenceIndicationColor=255,207,187
