@@ -1,4 +1,4 @@
-activeuserprofiles=A20959215;Team;linux4057;linux57;ros;ros-master
+activeuserprofiles=A20959215;Team;linux4057;linux57;linux64;ros;ros-master
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=ros
-useridperkey=linux57.Local\=ros;linux4057.Local\=ros;A20959215.Local\=10072924;
+useridperkey=linux64.Local\=ros;linux4057.Local\=ros;linux57.Local\=ros;A20959215.Local\=10072924;
